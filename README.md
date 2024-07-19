@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Jadhav</h1>
 <h3 align="center">A passionate cyber security enthusiast and frontend developer.</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775233_1280.png"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesh-99&label=Profile%20views&color=0e75b6&style=flat" alt="adesh-99" /> </p>
 
 - 📫 How to reach me **adesharunjadhav99@gmail.com**
